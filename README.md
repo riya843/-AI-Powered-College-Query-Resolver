@@ -28,17 +28,21 @@ An intelligent chatbot designed to answer student queries related to college pro
 
 ### 🔨 Installation
 
-1. **Clone the repository**
+-1. **Clone the repository**
 git clone https://github.com/yourusername/college-query-chatbot.git
 cd college-query-chatbot
-2.**Install dependencies**
+-2.**Install dependencies**
 
 pip install flask flask-cors pandas openai sentence-transformers torch
-3.**Configure API Key Replace your OpenAI key in server.py**
+-3.**Configure API Key Replace your OpenAI key in server.py**
 openai.api_key = "your_openai_api_key"
-4.**Run the server**
+-4.**Run the server**
 python server.py
-5.**Open in Browser Navigate to: http://127.0.0.1:5000**
+-5.**Open in Browser Navigate to: http://127.0.0.1:5000**
 
 ### 📸 UI Preview
 ![Screenshot (419)](https://github.com/user-attachments/assets/f668f942-e601-4042-94b8-0a34b63df9c6)
+![image](https://github.com/user-attachments/assets/315b5eb8-7e3f-4eda-9b6a-be5e72c00a55)
+![image](https://github.com/user-attachments/assets/6e7e9ab9-acc9-4d14-9093-8aa811e45d81)
+
+
